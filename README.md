@@ -1,5 +1,5 @@
 # Predictive Maintenance
-Code base for Predictive Maintenance sample implementation. Companion code for blog post [Intro to Predictive Maintenance on NASA Turbofan Engine Dataset using Machine Learning](https://4cda.com/intro-to-predictive-maintenance-on-nasa-turbofan-engine-dataset-using-machine-learning/).
+Companion code for blog post [Intro to Predictive Maintenance on NASA Turbofan Engine Dataset using Machine Learning](https://4cda.com/intro-to-predictive-maintenance-on-nasa-turbofan-engine-dataset-using-machine-learning/).
 
 Analysis and prediction of turbofan degradation using popular regression models, including [XGBoost](https://xgboost.readthedocs.io/en/latest/), [CatBoost](https://catboost.ai/) and [Random Forest](https://en.wikipedia.org/wiki/Random_forest).
 
